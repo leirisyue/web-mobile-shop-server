@@ -1,0 +1,149 @@
+[{
+    "_id": {
+        "$oid": "tv1"
+    },
+    "Ten": "AI Tivi TCL 40 Inch L40S6500",
+    "Ma_so": "TV_1",
+    "image": "https://cdn01.dienmaycholon.vn/filewebdmclnew/public//picture/product/product13144/product_13144_1.png",
+    "Don_gia_Ban": 23900000,
+    "Nhom_Dien_thoai": {
+        "Ten": "tcl",
+        "Ma_so": "TV"
+    },
+    "description": "TCL AndroidTV T- home S6500 là dòng TV hướng đến đối tượng khách hàng là những nhóm người tiêu dùng yêu mến cuộc sống hiện đại, thông minh không giới hạn với 4 lựa chọn kích cỡ khác nhau 49'', 43'', 40'' và 32'' .",
+    "detail": {
+        "type": "Ai Tivi (Trí tuệ nhân tạo)",
+        "size": "40 Inch",
+        "pixel": "32 - 43' (2 - 3 mét)",
+        "HDMI": "Có x2",
+        "factory": "Việt Nam",
+        "security": "36 Tháng"
+    }
+
+}, {
+    "_id": {
+        "$oid": "tv2"
+    },
+    "Ten": "Smart Tivi QLED 4K Samsung 43 Inch QA43Q60AAKXXV",
+    "Ma_so": "TV_2",
+    "image": "https://cdn01.dienmaycholon.vn/filewebdmclnew/public//picture/product/product18204/product_18204_2.png",
+    "Don_gia_Ban": 15690000,
+    "Nhom_Dien_thoai": {
+        "Ten": "samsung",
+        "Ma_so": "TV"
+    },
+    "description": "Smart TV QLED 4K SAMSUNG QA50Q60AAKXXV sở hữu ngôn ngữ thiết kế AirSlim đỉnh cao với độ mỏng ấn tượng chưa từng có, dễ dàng kết hợp với mọi không gian tạo nên tổng thể liền mạch thu hút mọi ánh nhìn.",
+    "detail": {
+        "type": "QLED",
+        "size": "43 Inch",
+        "pixel": "Ultra HD 4K",
+        "HDMI": "không",
+        "factory": "Việt Nam",
+        "security": "24 Tháng"
+    }
+}, {
+    "_id": {
+        "$oid": "tv3"
+    },
+    "Ten": "Android Tivi Sony 4K 50 Inch KD-50X75 VN3",
+    "Ma_so": "TV_3",
+    "image": "https://cdn01.dienmaycholon.vn/filewebdmclnew/public//picture/product/product18968/product_18968_2.png",
+    "Don_gia_Ban": 16390000,
+    "Nhom_Dien_thoai": {
+        "Ten": "sony",
+        "Ma_so": "TV"
+    },
+    "description": "Tivi LED Sony KD-50X75 là tivi màn hình phẳng, cạnh viền được làm mỏng tinh tế cho bạn hoàn toàn đắm chìm vào nội dung đang được trình chiếu trên tivi. ",
+    "detail": {
+        "type": "Smart LED",
+        "size": "50 Inch",
+        "pixel": "Ultra HD 4K",
+        "HDMI": "không",
+        "factory": "Việt Nam",
+        "security": "24 Tháng"
+    }
+}, {
+    "_id": {
+        "$oid": "tv4"
+    },
+    "Ten": "Android Tivi QLED 4K TCL 55 Inch 55C725",
+    "Ma_so": "TV_4",
+    "image": "https://cdn01.dienmaycholon.vn/filewebdmclnew/public/picture/product/product18377/dmcl_450_product_18377_1.png",
+    "Don_gia_Ban": 16990000,
+    "Nhom_Dien_thoai": {
+        "Ten": "qled",
+        "Ma_so": "TV"
+    },
+    "description": "Android TV TCL 55C725 sở hữu kiểu dáng thiết kế khá đơn giản với phần chân đế hình chữ V úp ngược. Tuy nhiên chi tiết đặc biệt của phần chân đế này đó là nó có thể gắn ở 2 vị trí gần hoặc xa nhau, tùy thuộc và cách bày trí của bạn.",
+    "detail": {
+        "type": "QLED",
+        "size": "55 Inch",
+        "pixel": "Ultra HD 4K",
+        "HDMI": "không",
+        "factory": "Việt Nam",
+        "security": "24 Tháng"
+    }
+}, {
+    "_id": {
+        "$oid": "tv5"
+    },
+    "Ten": "Smart Tivi Samsung 4K UHD 50 Inch UA50AU7000KXXV",
+    "Ma_so": "TV_5",
+    "image": "https://cdn01.dienmaycholon.vn/filewebdmclnew/public//picture/product/product18191/product_18191_5.png",
+    "Don_gia_Ban": 16990000,
+    "Nhom_Dien_thoai": {
+        "Ten": "samsung",
+        "Ma_so": "TV"
+    },
+    "description": "Với ngôn ngữ thiết kế Airslim – không viền 3 cạnh, mẫu Smart Tivi Samsung 4K 50 inch UA50AU7000 trở nên tinh tế, hiện đại và nổi bật hơn trong không gian sử dụng. Ngoài ra, kiểu thiết kế này cũng giúp người xem tập trung hơn vào nội dung đang phát, nâng cao trải nghiệm nghe nhìn.",
+    "detail": {
+        "type": "Smart LED",
+        "size": "50 Inch",
+        "pixel": "Ultra HD 4K",
+        "HDMI": "không",
+        "factory": "Việt Nam",
+        "security": "24 Tháng"
+    }
+}, {
+    "_id": {
+        "$oid": "tv6"
+    },
+    "Ten": "Android Tivi 4K Casper 55 Inch 55UG6100",
+    "Ma_so": "TV_6",
+    "image": "https://cdn01.dienmaycholon.vn/filewebdmclnew/public//picture/product/product19301/product_19301_2.png",
+    "Don_gia_Ban": 26990000,
+    "Nhom_Dien_thoai": {
+        "Ten": "samsung",
+        "Ma_so": "TV"
+    },
+    "description": "Smart Tivi Casper 4K 55 inch 55UG6100 sở hữu những đường nét thiết kế đơn giản đến mức tối giản thế nhưng chính chi tiết này lại giúp tôn lên được sự trang trọng và đẳng cấp cho thiết bị, nâng tầm không gian sử dụng.",
+    "detail": {
+        "type": "Smart LED",
+        "size": "55 Inch",
+        "pixel": "Android Tivi 4K Casper 55 Inch 55UG6100",
+        "HDMI": "có",
+        "factory": "Thái Lan",
+        "security": "36 Tháng"
+    }
+}, {
+    "_id": {
+        "$oid": "tv7"
+    },
+    "Ten": "Android Tivi 4K Casper 55 Inch 55UG6100",
+    "Ma_so": "TV_7",
+    "image": "https://cdn01.dienmaycholon.vn/filewebdmclnew/public//picture/product/product19301/product_19301_2.png",
+    "Don_gia_Ban": 16990000,
+    "Nhom_Dien_thoai": {
+        "Ten": "samsung",
+        "Ma_so": "TV"
+    },
+    "description": "Smart Tivi Casper 4K 55 inch 55UG6100 sở hữu những đường nét thiết kế đơn giản đến mức tối giản thế nhưng chính chi tiết này lại giúp tôn lên được sự trang trọng và đẳng cấp cho thiết bị, nâng tầm không gian sử dụng.",
+    "detail": {
+        "type": "Smart LED",
+        "size": "55 Inch",
+        "pixel": "Android Tivi 4K Casper 55 Inch 55UG6100",
+        "HDMI": "có",
+        "factory": "Thái Lan",
+        "security": "36 Tháng"
+    }
+}]

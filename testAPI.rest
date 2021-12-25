@@ -1,0 +1,11 @@
+GET http://localhost:8085
+###
+GET https://app-js-thuy.herokuapp.com/mobile
+###
+GET http://localhost:8085/television
+###
+GET http://localhost:8085/store
+###
+GET http://localhost:8085/banner
+###
+GET https://cloud.mongodb.com/api/public/v1.0/groups/617e884a7baf083644ed9ce6/hosts

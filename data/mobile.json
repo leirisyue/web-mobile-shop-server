@@ -1,0 +1,277 @@
+[{
+        "_id": {
+            "$oid": "m1"
+        },
+        "Ten": "iPhone 11 64GB",
+        "Ma_so": "iPhone_1",
+        "image_mini": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2019/9/11/637037687757921048_11-pro-max-chung.png",
+        "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2019/9/11/637037652457717299_11-den.png",
+        "Don_gia_Ban": 15999000,
+        "Nhom_Dien_thoai": {
+            "Ten": "iPhone",
+            "Ma_so": "ISO"
+        },
+        "description": "iPhone 11 với 6 phiên bản màu sắc, camera có khả năng chụp ảnh vượt trội, thời lượng pin cực dài và bộ vi xử lý mạnh nhất từ trước đến nay sẽ mang đến trải nghiệm tuyệt vời dành cho bạn.",
+        "detail": {
+            "memory": "64 GB",
+            "battery": "Non-removable Li-Po 2915 mAh battery",
+            "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+            "display": "6.1', Liquid Retina HD, IPS LCD, 828 x 1792 Pixel",
+            "features": "12.0 MP + 12.0 MP",
+            "platform": "A13 Bionic"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "m2"
+        },
+        "Ten": "iPhone 12 64GB",
+        "Ma_so": "iPhone_2",
+        "image_mini": "https://images.fpt.shop/unsafe/fit-in/192x192/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/9/15/637673213598401263_iphone-13-pro-max-dd-1.jpg",
+        "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/10/14/637382632990998957_ip-12-xanhduong-1.png",
+        "Don_gia_Ban": 19999000,
+        "Nhom_Dien_thoai": {
+            "Ten": "iPhone",
+            "Ma_so": "ISO"
+        },
+        "description": "iPhone 12 ra mắt với vai trò mở ra một kỷ nguyên hoàn toàn mới. Tốc độ mạng 5G siêu tốc, bộ vi xử lý A14 Bionic nhanh nhất thế giới smartphone, màn hình OLED tràn cạnh tuyệt đẹp và camera siêu chụp đêm, tất cả đều có mặt trên iPhone 12.",
+        "detail": {
+            "memory": "64 GB",
+            "battery": "Non-removable Li-Po 2915 mAh battery",
+            "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+            "display": "6.1', Super Retina XDR, OLED, 2532 x 1170 Pixel",
+            "features": "12.0 MP + 12.0 MP",
+            "platform": "A14 Bionic"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "m3"
+        },
+        "Ten": "iPhone 13 Pro 128GB",
+        "Ma_so": "iPhone_3",
+        "image_mini": "https://images.fpt.shop/unsafe/fit-in/192x192/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/9/15/637673224696649012_iphone-13-dd-1.jpg",
+        "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/9/16/637673860105973451_iphone-13-pro-max-vang-1.jpg",
+        "Don_gia_Ban": 39999000,
+        "Nhom_Dien_thoai": {
+            "Ten": "iPhone",
+            "Ma_so": "ISO"
+        },
+        "description": "Tận hưởng tốc độ khó tin trên chiếc smartphone nhanh nhất thế giới, iPhone 13 Pro với màn hình ProMotion 120Hz đột phá, bộ vi xử lý A15 Bionic cho hiệu năng không đối thủ, thời lượng pin vượt trội và bộ 3 camera được nâng cấp đáng kể, xứng đáng là chiếc điện thoại đầu bảng trên thị trường.",
+        "detail": {
+            "memory": "128 GB",
+            "battery": "Non-removable Li-Po 2915 mAh battery",
+            "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+            "display": "6.1', Super Retina XDR, OLED, 2532 x 1170 Pixel",
+            "features": "12.0 MP + 12.0 MP",
+            "platform": "A15 Bionic"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "m4"
+        },
+        "Ten": "Samsung Galaxy S20+",
+        "Ma_so": "android_4",
+        "image_mini": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/7/7/637297131761229273_ss-s20-lite-dd.png",
+        "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/2/12/637170944337163053_ss-s20-plus-xanh-1.png",
+        "Don_gia_Ban": 16990000,
+        "Nhom_Dien_thoai": {
+            "Ten": "samsung",
+            "Ma_so": "ANDROID"
+        },
+        "description": "Siêu phẩm Samsung Galaxy S20 Plus đã xuất hiện. Thể hiện đẳng cấp đích thực với thiết kế cao cấp, màn hình lớn đẹp tuyệt mỹ, 5 camera chuyên nghiệp và hiệu suất đáng kinh ngạc.",
+        "detail": {
+            "memory": "128 GB",
+            "battery": "Non-removable Li-Po 2915 mAh battery",
+            "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+            "display": "6.7', QHD+, Dynamic AMOLED 2X, 1440 x 3200 Pixel",
+            "features": "12.0 MP + 12.0 MP + 64.0 MP + 0.5 MP",
+            "platform": "Exynos 990"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "m5"
+        },
+        "Ten": "Samsung Galaxy A52s 5G",
+        "Ma_so": "android_5",
+        "image_mini": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/9/14/637672395068813010_samsung-galaxy-a52s-5g-dd.jpg",
+        "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/9/15/637672635530398245_samsung-galaxy-a52s-5g-tim-4.jpg",
+        "Don_gia_Ban": 9990000,
+        "Nhom_Dien_thoai": {
+            "Ten": "samsung",
+            "Ma_so": "ANDROID"
+        },
+        "description": "Trải nghiệm kỷ nguyên 5G hoàn toàn mới, nơi là người làm chủ tốc độ và dẫn đầu cuộc chơi, Samsung Galaxy A52s 5G với kết nối 5G siêu tốc, sức mạnh hiệu năng tuyệt đỉnh cùng bộ tứ camera chống rung quang học OIS vượt trội sẽ đưa bạn đến từ bất ngờ này đến bất ngờ khác.",
+        "detail": {
+            "memory": "128 GB",
+            "battery": "Non-removable Li-Po 2915 mAh battery",
+            "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+            "display": "6.5', FHD+, Super AMOLED, 1080 x 2400 Pixel",
+            "features": "12.0 MP + 12.0 MP + 64.0 MP + 0.5 MP",
+            "platform": "Exynos 990"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "m6"
+        },
+        "Ten": "Samsung Galaxy A22 5G",
+        "Ma_so": "android_6",
+        "image_mini": "https://images.fpt.shop/unsafe/fit-in/192x192/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/16/637620445702136793_samsung-galaxy-a22-5g-den-dd.jpg",
+        "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/11/12/637723345817643855_xiaomi-11-lite-5g-ne-xanh-1.jpg",
+        "Don_gia_Ban": 5990000,
+        "Nhom_Dien_thoai": {
+            "Ten": "samsung",
+            "Ma_so": "ANDROID"
+        },
+        "description": "Đón chào mạng di động 5G thế hệ mới nhất, nơi tốc độ mạng đột phá sẽ thay đổi cách bạn trải nghiệm và chia sẻ nội dung. Samsung Galaxy A22 5G với màn hình lớn, cấu hình cực khủng và thời lượng pin dài sẽ đồng hành cùng bạn trong cuộc chơi của tốc độ.",
+        "detail": {
+            "memory": "128 GB",
+            "battery": "Non-removable Li-Po 2915 mAh battery",
+            "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+            "display": "6.5', FHD+, Super AMOLED, 1080 x 2400 Pixel",
+            "features": "12.0 MP + 12.0 MP + 64.0 MP + 0.5 MP",
+            "platform": "Exynos 990"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "m7"
+        },
+        "Ten": "Xiaomi 11 Lite 5G NE 8GB - 256GB",
+        "Ma_so": "android_7",
+        "image_mini": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/22/637705049638837488_00773657-dd.jpg",
+        "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/7/13/637617693956994735_samsung-galaxy-a22-5g-xanh-4.jpg",
+        "Don_gia_Ban": 9290000,
+        "Nhom_Dien_thoai": {
+            "Ten": "xiaomi",
+            "Ma_so": "ANDROID"
+        },
+        "description": "Không chỉ là một chiếc điện thoại, Xiaomi 11 Lite 5G NE xứng đáng được gọi là biểu tượng thời trang trong giới smartphone, nơi bạn được cảm nhận sự thanh tú và tinh tế đến từng đường nét, cùng với đó là sức mạnh không ngờ, kết nối 5G siêu tốc độ, làm chủ tương lai.",
+        "detail": {
+            "memory": "256 GB",
+            "battery": "Non-removable Li-Po 2915 mAh battery",
+            "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+            "display": "6.55', FHD+, AMOLED DotDisplay, 1080 x 2400 Pixel",
+            "features": "64.0 MP + 8.0 MP + 5.0 MP",
+            "platform": "Snapdragon 778G"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "m8"
+        },
+        "Ten": "Xiaomi POCO X3 Pro NFC 8GB-256GB",
+        "Ma_so": "android_8",
+        "image_mini": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/5/19/637570519716076314_poco-x3-pro-den-dd.jpg",
+        "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/8/637693258937987943_xiaomi-poco-x3-pro-xanh-1.jpg",
+        "Don_gia_Ban": 9290000,
+        "Nhom_Dien_thoai": {
+            "Ten": "xiaomi",
+            "Ma_so": "ANDROID"
+        },
+        "description": "Xiaomi POCO X3 Pro NFC là tập hợp của mọi tính năng mà một game thủ cần trên smartphone. Màn hình siêu mượt, điện thoại pin khủng, sạc siêu nhanh, âm thanh chất lượng phòng thu và một cấu hình đáng kinh ngạc, có quá nhiều điều đang chờ đón bạn.",
+        "detail": {
+            "memory": "256 GB",
+            "battery": "Non-removable Li-Po 2915 mAh battery",
+            "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+            "display": "6.55', FHD+, AMOLED DotDisplay, 1080 x 2400 Pixel",
+            "features": "64.0 MP + 8.0 MP + 5.0 MP",
+            "platform": "Snapdragon 778G"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "m9"
+        },
+        "Ten": "Xiaomi 11T 8GB - 128GB",
+        "Ma_so": "android_9",
+        "image_mini": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/21/637704130291854176_00773660-dd.jpg",
+        "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/7/637692033194385557_xiaomi-11t-xanh-1.jpg",
+        "Don_gia_Ban": 10590000,
+        "Nhom_Dien_thoai": {
+            "Ten": "xiaomi",
+            "Ma_so": "ANDROID"
+        },
+        "description": "Xiaomi 11T sẽ biến mỗi khoảnh khắc thường ngày của bạn thành những thước phim điện ảnh sống động với trải nghiệm camera 108MP đỉnh cao. Hơn nữa, Xiaomi 11T còn là một cỗ máy đầy tốc độ dưới vẻ ngoài của kiệt tác thời trang.",
+        "detail": {
+            "memory": "128 GB",
+            "battery": "Non-removable Li-Po 2915 mAh battery",
+            "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+            "display": "6.55', FHD+, AMOLED DotDisplay, 1080 x 2400 Pixel",
+            "features": "64.0 MP + 8.0 MP + 5.0 MP",
+            "platform": "Snapdragon 778G"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "m10"
+        },
+        "Ten": "Vivo Y15s 3GB - 32GB",
+        "Ma_so": "android_10",
+        "image_mini": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/25/637707822857432352_00779950-vivo-y15s-trang-xanh-dd.jpg",
+        "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/10/25/637707822857276078_00779950-vivo-y15s-trang-xanh-1.jpg",
+        "Don_gia_Ban": 3590000,
+        "Nhom_Dien_thoai": {
+            "Ten": "vivo",
+            "Ma_so": "ANDROID"
+        },
+        "description": "Tha hồ giải trí suốt cả ngày với dung lượng pin lớn 5000mAh, vivo Y15s sẽ cùng bạn tận hưởng những niềm vui với thiết kế mỏng nhẹ, trải nghiệm mượt mà trên màn hình tràn Halo 6,51 inch cực đã.",
+        "detail": {
+            "memory": "128 GB",
+            "battery": "Non-removable Li-Po 2915 mAh battery",
+            "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+            "display": "6.51', HD+, IPS LCD, 720 x 1600 Pixel",
+            "features": "13.0 MP + 2.0 MP",
+            "platform": "Helio P35"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "m11"
+        },
+        "Ten": "Vivo Y21 4GB+1GB - 64GB",
+        "Ma_so": "android_11",
+        "image_mini": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/8/13/637644824833391058_vivo-y21-xanh-dd.jpg",
+        "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/8/13/637644824838703572_vivo-y21-xanh-1.jpg",
+        "Don_gia_Ban": 7590000,
+        "Nhom_Dien_thoai": {
+            "Ten": "vivo",
+            "Ma_so": "ANDROID"
+        },
+        "description": "Điện thoại vivo Y21 có thiết kế siêu mỏng thời thượng, vân kim cương độc đáo, mang trên mình viên pin dung lượng cao 5000 mAh, sạc siêu tốc 18W và công nghệ RAM mở rộng, đem tới sự năng động, ngập tràn cảm hứng cho giới trẻ hiện đại.",
+        "detail": {
+            "memory": "64 GB",
+            "battery": "Non-removable Li-Po 2915 mAh battery",
+            "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+            "display": "6.51', HD+, IPS LCD, 720 x 1600 Pixel",
+            "features": "13.0 MP + 2.0 MP",
+            "platform": "Helio P35"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "m12"
+        },
+        "Ten": "Vivo Y21s 4GB+1GB - 128GB",
+        "Ma_so": "android_12",
+        "image_mini": "https://images.fpt.shop/unsafe/fit-in/214x214/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/9/14/637672549881930223_vivo-y21s-xanh-dd.jpg",
+        "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/9/14/637672551774108125_vivo-y21s-trang-1.jpg",
+        "Don_gia_Ban": 9590000,
+        "Nhom_Dien_thoai": {
+            "Ten": "vivo",
+            "Ma_so": "ANDROID"
+        },
+        "description": "Thiết kế mỏng thời thượng, 3 camera sau siêu nét độ phân giải lên tới 50MP, mạnh mẽ với công nghệ RAM mở rộng cùng dung lượng pin cực khủng, vivo Y21s sẵn sàng cùng bạn cháy hết mình trong mọi cuộc vui.",
+        "detail": {
+            "memory": "128 GB",
+            "battery": "Non-removable Li-Po 2915 mAh battery",
+            "chipset": "Qualcomm SDM845 Snapdragon 845 (10 nm)",
+            "display": "6.51', HD+, IPS LCD, 720 x 1600 Pixel",
+            "features": "13.0 MP + 2.0 MP",
+            "platform": "Helio G80"
+        }
+    }
+]
